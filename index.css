@@ -1,0 +1,80 @@
+.row{
+    
+    width: 100%;
+    
+}
+.col-3{
+    background-color: #343a40;
+}
+
+img {
+    border-radius: 50%;
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+#abt{
+    text-align: center;
+    margin-top: 45px;
+}
+
+#high{
+    margin-top: 35px;
+}
+
+#hic{
+    margin-top: 35px;
+}
+#highs{
+    margin-top: 15px;
+}
+#hisc{
+    margin-top: 85px;
+}
+#ug{
+    margin-top: 5px;
+}
+#bc{
+    margin-top: 85px;
+}
+#pg{
+    margin-top: 15px;
+}
+#mc{
+    margin-top: 70px;
+}
+
+#edu{
+    text-align: center;
+    margin-top: 65px;
+}
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #4cc9f0;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #skl{
+    text-align: center;
+    margin-top: 450px;
+  }
+  #int{
+    text-align: center;
+    margin-top: 350px;
+  }
+  #add{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: auto;
+  }
+  b{
+      color: #4cc9f0 ;
+  }
+  h3{
+    color: #4cc9f0 ;
+  }
